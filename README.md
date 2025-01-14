@@ -8,7 +8,7 @@
 <table>
   <tr>
     <td valign="top" style="padding-right: 400px;">
-      :hammer_and_wrench: Languages and Tools
+      :hammer_and_wrench: <b>Languages and Tools :</b>
       <br/><br/>
       <div align="left">
         <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
