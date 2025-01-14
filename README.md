@@ -31,5 +31,4 @@
 ### :fire: My Stats :
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vinkol&show_icons=true&theme=vision-friendly-dark)
 
-<br/><br/> <!-- Adds space between the two sections -->
 
