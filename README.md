@@ -7,7 +7,7 @@
 
 <table>
   <tr>
-    <td valign="top" style="padding-right: 40px;">
+    <td valign="top" style="padding-right: 400px;">
       :hammer_and_wrench: Languages and Tools
       <br/><br/>
       <div align="left">
@@ -22,13 +22,14 @@
       </div>
     </td>
     <td valign="top">
-      :fire: My Stats
-      <br/><br/>
-      <div align="left">
-       <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=vinkol&theme=radical" />
-      </div>
+      <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif?cid=790b7611ccb69onha08nb6ow68la11kzcsgchs0un1fj5u1o&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="auto"/>
   </tr>
 </table>
+
+---
+
+### :fire: My Stats :
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vinkol&show_icons=true&theme=vision-friendly-dark)
 
 <br/><br/> <!-- Adds space between the two sections -->
 
